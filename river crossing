@@ -64,7 +64,7 @@ def Rivers_crossing(): # this a main program
                          print('Wolf attack the Goat!')
                          restart()
                          break
-               else: # f or s la m illa na ithula pokum.
+               else: # f or s la m illa na ithula pokum..
                     print(f,s,'This object not crossing the river!')
                     restart()
                     break
